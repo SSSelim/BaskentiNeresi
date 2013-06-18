@@ -1,0 +1,204 @@
+BOL
+AVRUPA
+Almanya : Berlin
+Andorra : Andorra La Vella
+Arnavutluk : Tiran
+Avusturya : Viyana
+Belarus : Minsk
+Belcika : Bruksel
+Bosna ve Hersek : Saraybosna
+Bulgaristan : Sofya
+Britanya : Londra
+Cek Cumhuriyeti : Prag
+Danimarka : Kopenhang
+Estonya : Tailin
+Finlandia : Helsinki
+Fransa : Paris
+Hirvatistan : Zagrep
+Hollanda : Amsterdam
+irlanda Cumhuriyeti : Dublin
+ispanya : Madrid
+isvec : Stockholm
+isvicre : Bern
+italya : Roma
+izlanda : Reykjavik
+KKTC : Lefkose
+Lettonya : Riga
+Liechtenstein Prensligi : Vaduz
+Litvanya : Vilnus
+Luksemburg : Luksemburg
+Macaristan : Budapeste
+Makedonya : uskup
+Malta : Valletta
+Moldova : Kisinev
+Monako : Monako
+Norvec : Oslo
+Polonya : Varsova
+Portekiz : Lizbon
+Romanya : Bukres
+Rusya Federasyonu : Moskova
+San Marino Cumhuriyeti : San Marino
+Sirbistan-Karadag : Belgrad
+Slovakya : Bratislava
+Slovenya : Ljubljana
+Turkiye : Ankara
+Ukrayna : Kiev
+Yunanistan : Atina
+BOL
+ASYA
+Afganistan : Kabil
+Azerbaycan : Baku
+BAE : Abudabi
+Bahreyn : Manama
+Banglades : Dakka
+Bhutan : Timbu
+Ermenistan : Erivan
+Gurcistan : Tiflis
+Hindistan : Yeni Delhi
+Irak : Bagdat
+iran : Tahran
+israil : Tel-Aviv
+Katar : Doha
+Kazakistan : Astana
+Kirgizistan : Biskek
+Kuveyt : Kuveyt
+Lubnan : Beyrut
+Maldiv Adalari : Male
+Nepal : Katmandu
+ozbekistan : Taskent
+Pakistan : islamabad
+Srilanka : Kolombo
+Suriye : sam
+Suudi Arabistan : Riyad
+Tacikistan : Dusanbe
+Turkmenistan : Askabad
+Umman : Maskat
+urdun : Amman
+Yemen : San'a
+BOL
+Uzak Dogu
+Birmanya : Rangun
+Brunei : Bandar Seri Begawan
+cin : Pekin
+Dogu Timor : Dili
+Filipinler : Manila
+G.Kore : Seul
+indonezya : Jakarta
+Japonya : Tokyo
+Kambocya : Pnom Penh
+K.Kore : Pyongyang
+Laos : Vientian
+Malezya : Kuala Lumpur
+Mogolistan : Ulan Batar
+Singapur : Singapur
+Tayland : Bangkok
+Vietnam : Hanoi
+BOL
+Okyanusya
+Avustralya : Canberra
+Fiji : Suva
+Kiribati : Tarawa
+Marshall Adalari : Majuro
+Mikronezya Federe Devletleri : Palikir
+Nauru : Yaren
+Palau Adalari : Koror
+Papua Yeni Gine : Portmoresby
+Solomon : Honiara
+Samoa : Apia
+Tonga : Nuku'alafa
+Tuvalu : Fongafale
+Vanuatu : Port Vila
+Yeni Zelenda : Wellington
+BOL
+AFRiKA
+Angola : Luanda
+Benin : Porto-Nouo;Kotonu
+Botsvana : Gaborone
+Burundi : Bulumbura
+Cezayir : Cezayir
+Cibuti : Cibuti
+cad Cumhuriyeti : N.Djamena
+Demokratik Kongo Cumhuriyeti : Kinshasa
+Ekvator Ginesi : Malabo
+Eritre : Asmara
+Etiyopya : Addis Ababa
+Fas : Rabat
+Fildisi Kiyisi : Yamooussoukro
+Gabon : Libreville
+Gambiya : Banjul
+Gana : Accra
+Gine : Konakri
+Gine-Bissau : Bissau
+G.Afrika : Pretoria
+Kamerun : Yaunde
+Kenya : Nairobi
+Komorlar : Moroni
+Kongo Cumhuriyeti : Brazaville
+Lesotho : Maseru
+Liberya : Monrovia
+Libya : Bati Trablus
+Madagaskar : Antonanarivo
+Malavi : Lilongwe
+Mali : Bamako
+Mauritus : Port Luis
+Misir : Kahire
+Moritanya : Novakchott
+Mozambik : Maputa
+Namibia : Windhoek
+Nijer : Niamey
+Nijerya : Abuja
+Orta Afrika Cumhuriyeti : Bangui
+Ruanda : Kigali
+Sao Tome ve Principe Adalari : Sao Tome
+Senegal : Dakar
+Seyseller : Viktoria
+Sierra Leone : Freetown
+Somali : Mogadisu
+Sudan : Hartum
+Svaziland : Mbabane
+Tanzanya : Dodoma
+Togo : Lome
+Tunus : Tunus
+Uganda : Kampala
+Volta : Uagadugu
+Yesilburun Adalari (Labo Verde) : Praia
+Zambiya : Lusaka
+Zimbabwe : Harare
+BOL
+KUZEY AMERiKA
+ABD : Washigton D.C
+Antigua ve Barbuda : Saint John's
+Bahama Adalari : Nassabu
+Barbados : Bridgetown
+Belize : Belmopan
+Dominik Cumhuriyeti : Santo Domingo
+Dominika : Roseau
+El Salvador : San Salvador
+Grenada : St.Georges
+Guatemala : Guatemala
+Haiti : Port-au-Prince
+Honduras : Tequcigalpa
+Jamaika : Kingston
+Kanada : Ottawa
+Kosta Rika : San Jose
+Kuba : Havana
+Meksika : Meksiko
+Nikaragua : Managua
+Panama : Panama
+Paraguay : Asuncion
+Santa Kitts ve Nevis : Basseterre
+Santa Lucia : Castries
+Santa Vincent ve Grenadines : Kingstown
+BOL
+GuNEY AMERiKA
+Arjantin : Buenos Aires
+Bolivya : Sucre
+Brezilya : Bresilia
+Ekvador : Quito
+Guyana : Georgetown
+Kolombiya : Bogota
+Peru : Lima
+Surinam : Paramaribo
+sili : Santiago
+Uruguay : Montevideo
+Venezulla : Caracas
